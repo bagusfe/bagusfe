@@ -21,7 +21,6 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
     <br>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-    //[![paypal.me/gewdfe](https://ionicabizau.github.io/badges/paypal.svg)]() 
 </p>
 
 
