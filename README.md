@@ -2,6 +2,8 @@
 Currently I am open to any opportunity especially in IT as a Mobile Develope and iOS Developer. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact)](https://github.com/bagusfe/github-readme-stats)
+
+Support me [![paypal.me/gewdfe](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/gewdfe) 
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
