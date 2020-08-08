@@ -9,7 +9,12 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact)](https://github.com/bagusfe/github-readme-stats)
+### Stats:
+<img src="https://gpvc.arturio.dev/bagusfe" />
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&show_icons=true&include_all_commits=true&count_private=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+</p>
 
 ### Let's connect!
 <p>
