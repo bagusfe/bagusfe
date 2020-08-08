@@ -11,6 +11,13 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
 
 ### Stats:
 <img src="https://gpvc.arturio.dev/bagusfe" />
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+   - React Native (Mobile Development
+   - Basic of Flutter (Dart) <br/>
+   - SwiftUI and UIKit <br/>
+   - Blogging (Posting, SEO, Readability etc) <br/>
+</details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
