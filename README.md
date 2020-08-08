@@ -20,9 +20,11 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
     <a href="http://api.whatsapp.com/send?phone=6281250510066&text=Hello%20Bagus!%20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" height="20" /></a>
     <br>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
+    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    //[![paypal.me/gewdfe](https://ionicabizau.github.io/badges/paypal.svg)]() 
 </p>
 
-Support me [![paypal.me/gewdfe](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/gewdfe) 
+
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
