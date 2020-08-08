@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 , I'm Bagus!
+Currently I am open to any opportunity especially in IT as a Mobile Develope and iOS Developer. 
 
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
