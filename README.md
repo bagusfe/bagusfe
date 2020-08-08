@@ -17,8 +17,8 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
     - 🌱 I’m currently learning SwiftUI and UIKit </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about anything -> <a href="mailto:goodfe@yahoo.com">Email me!</a> </br>
-    - 📫 How to reach me: ... </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
