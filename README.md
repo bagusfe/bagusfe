@@ -12,7 +12,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
 ### Stats:
 <img src="https://gpvc.arturio.dev/bagusfe" />
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&show_icons=true&include_all_commits=true&count_private=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
 </p>
 
