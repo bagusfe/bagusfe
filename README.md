@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Bagus!
-Currently I am open to any opportunity especially in IT as a Mobile Develope and iOS Developer. 
+Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
 
 ### Tools:
 <p>
@@ -14,12 +14,12 @@ Currently I am open to any opportunity especially in IT as a Mobile Develope and
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning ... </br>
+    - 🌱 I’m currently learning SwiftUI and UIKit </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about ... </br>
+    - 💬 Ask me about anything -> <a href="mailto:goodfe@yahoo.com">Email me!</a> </br>
     - 📫 How to reach me: ... </br>
-    - 😄 Pronouns: ... </br>
+    - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
