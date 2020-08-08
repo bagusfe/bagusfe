@@ -1,7 +1,26 @@
 # Hi there 👋 , I'm Bagus!
 Currently I am open to any opportunity especially in IT as a Mobile Develope and iOS Developer. 
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact)](https://github.com/bagusfe/github-readme-stats)
+
+### Let's connect!
+<p>
+    <a href="https://www.linkedin.com/in/bagusfedotid" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" height="20" /></a>&nbsp;
+    <a href="https://twitter.com/bagusfedotid" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" height="20" /></a>&nbsp;
+    <a href="https://www.youtube.com/c/isjustyoga1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" height="20" /></a>&nbsp;
+    <a href="https://www.instagram.com/bagusfe.id/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" height="20" /></a>&nbsp;
+    <a href="http://api.whatsapp.com/send?phone=6281250510066&text=Hello%20Bagus!%20" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/whatsapp.svg" height="20" /></a>
+    <br>
+    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
+</p>
 
 Support me [![paypal.me/gewdfe](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/gewdfe) 
 <!--
